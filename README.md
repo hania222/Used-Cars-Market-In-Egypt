@@ -9,9 +9,5 @@ It includes data preprocessing, multiple ML models, XAI (SHAP), a Power BI dashb
 - `powerbi/` → Power BI dashboard
 - `slides/` → Final presentation
 
-## 🚀 How to Run Streamlit App
-```bash
-cd deployment
-pip install -r ../requirements.txt
-streamlit run app_v2.py
+
 
